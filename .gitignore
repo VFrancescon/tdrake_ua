@@ -1,0 +1,11 @@
+# Ignore all folders except chap2
+bin/
+etc/
+include/
+lib/
+lib64/
+share/
+# # Allow all files in root folder
+# /*
+# !/*
+lib64

@@ -1,0 +1,14 @@
+{
+    "tests": [
+        {
+            "name": "Test Hopfield Network",
+            "score": 0.0,
+            "max_score": 6,
+            "status": "failed",
+            "output": "At: (2, 3)\nsmax: (3,)\nAt: (2, 3)\nsmax: (3,)\n\nTest Failed: False is not true : For x = [1, 0], x_dot should be [-0.00678274  0.00664746]\n"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 0.0
+}
