@@ -7,8 +7,10 @@ Working through the [R. Timdrake underactuated course](https://underactuated.csa
 <!-- [Install Drake](https://drake.mit.edu/pip.html#stable-releases) -->
 
 ```shell
+python3 -m drake_ua
 cd drake_ua
-bin/pip install requiremets.txt
+bin/pip install --upgrade pip
+bin/pip install -r requiremets.txt
 source bin/activate
 ```
 
